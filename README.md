@@ -10,7 +10,6 @@ I am a financial analyst, in Austin, TX.
 - Retro Gaming
 
 ### Projects
----
 
 <dl>
   <dt>Money and Code</dt>
