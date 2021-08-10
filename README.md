@@ -2,15 +2,20 @@
 
 I am a financial analyst, in Austin, TX.
 
-### Interest
+### Interests
 - Quantitative trading
+- Smart Contract Development
 - Rust programming language
 - Aviation
+- Retro Gaming
 
 ### Projects
 <dl>
   <dt>Money and Code</dt>
   <dd>A blog about quantitative trading for the independent retail trader.</dd>
+  
+  <dt>Rust Ledger</dt>
+  <dd>I am working to make my first open source contribution to the rust_ledger plaintext accounting project.</dd>
 </dl>
 
 <!--
