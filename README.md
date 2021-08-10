@@ -10,6 +10,8 @@ I am a financial analyst, in Austin, TX.
 - Retro Gaming
 
 ### Projects
+---
+
 <dl>
   <dt>Money and Code</dt>
   <dd>A blog about quantitative trading for the independent retail trader.</dd>
