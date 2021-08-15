@@ -5,6 +5,7 @@ I am a financial analyst, in Austin, TX.
 ### Interests
 - Quantitative trading
 - Smart Contract Development
+- Data Engineering
 - Rust programming language
 - Aviation
 - Retro Gaming
