@@ -29,4 +29,4 @@ Personal website/blog: [curbycolvin.com](https://curbycolvin.com)
 ![LinkedIn Logo](/images/LI-In-Bug.png)
 Format: ![Alt Text](url)
 
-<img src="/images/LI-In-Bug.png" width=30 height=30> 
+<img src="/images/LI-Logo.png" width=70 height=30> 
