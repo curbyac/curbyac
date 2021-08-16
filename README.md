@@ -4,7 +4,7 @@ I am a financial analyst, in Austin, TX.
 
 ### Interests
 - Quantitative trading with python
-- Smart Contract Development (Solidity & 
+- Ethereum Smart Contract Development (Solidity) 
 - Data Engineering
 - Rust programming language
 - Aviation
@@ -22,4 +22,5 @@ I am a financial analyst, in Austin, TX.
   <dd>I am working to make my first open source contribution to the rust_ledger plaintext accounting project.</dd>
 </dl>
 
-[curbycolvin.com](https://curbycolvin.com)
+Personal website/blog: [curbycolvin.com](https://curbycolvin.com)
+[LinkedIn Profile](www.linkedin.com/in/curbycolvin)
