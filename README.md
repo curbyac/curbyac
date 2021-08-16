@@ -23,4 +23,5 @@ I am a financial analyst, in Austin, TX.
 </dl>
 
 Personal website/blog: [curbycolvin.com](https://curbycolvin.com)
+
 [LinkedIn Profile](www.linkedin.com/in/curbycolvin)
