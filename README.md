@@ -13,6 +13,9 @@ I am a financial analyst, in Austin, TX.
 ### Projects
 
 <dl>
+  <dt>Quiet Crater</dt>
+  <dd>Freelance smart contract development and data engineering.</dd>
+  
   <dt>Money and Code</dt>
   <dd>A blog about quantitative trading for the independent retail trader.</dd>
   
