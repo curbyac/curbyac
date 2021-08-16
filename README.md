@@ -11,9 +11,6 @@ I am a financial analyst, in Austin, TX.
 - Retro Gaming
 
 ### Projects
-- Quiet Crater
-   - Test
-
 <dl>
   <dt>Quiet Crater</dt>
   <dd>Freelance smart contract development and data engineering.</dd>
