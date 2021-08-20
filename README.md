@@ -25,4 +25,4 @@ I am a financial analyst, in Austin, TX.
 
 Personal website/blog: [curbycolvin.com](https://curbycolvin.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/curbycolvin)](https://www.linkedin.com/)
