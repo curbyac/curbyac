@@ -3,8 +3,11 @@
 I am a financial analyst, in Austin, TX.
 
 ### Interests
+- Aviation
+- Spatial Data Technology
 - Quantitative trading with python
-- Ethereum Smart Contract Development (Solidity) 
+- Ethereum Smart Contract Development (Solidity)
+- Software Engin 
 - Data Engineering
 - Data Analysis
 - Rust programming language
