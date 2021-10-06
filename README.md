@@ -7,7 +7,7 @@ I am a financial analyst, in Austin, TX.
 - Spatial Data Technology
 - Quantitative trading with python
 - Ethereum Smart Contract Development (Solidity)
-- Software Engin 
+- Software Engineering 
 - Data Engineering
 - Data Analysis
 - Rust programming language
