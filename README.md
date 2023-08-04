@@ -7,7 +7,6 @@
 - GPS and other outdoor tech
 - Trail Running
 - Plaintext Accounting
-- Decentralized Finance & Smart Contracts
 
 ### Projects
 <dl>
