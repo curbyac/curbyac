@@ -1,12 +1,11 @@
 ## Hi, I am Curby.
 
 ### Interests
-- Aviation
-- Information Security (Aviation & Finance)
-- Linux Phones
+- Command Line Interfaces
+- Cartography
+- Hiking & Trail Running
 - GPS and other outdoor tech
-- Trail Running
-- Plaintext Accounting
+- Linux Phones
 
 ### Projects
 <dl>
