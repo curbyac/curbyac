@@ -5,24 +5,18 @@
 - Cartography
 - Hiking & Trail Running
 - GPS and other outdoor tech
-- Linux Phones
+- Linux
 
 ### Projects
 <dl>
-  <dt>Quiet Crater</dt>
-  <dd>Freelance smart contract</dd>
-  
   <dt>Money and Code</dt>
   <dd>A blog about decentralized finance and smart contracts.</dd>
+
+  <dt>NAVATX</dt>
+  <dd>Navigation resources for people that use trails.</dd>
   
-  <dt>Rust Ledger</dt>
-  <dd>I am working to make my first open source contribution to the rust_ledger plaintext accounting project.</dd>
-  
-  <dt>Solitude Imagery</dt>
-  <dd>Stock Aerial Imagery</dd>
-  
-  <dt>Imvelo Air</dt>
-  <dd>Online helicopter ground school and aviation resource</dd>
+  <dt>Reconcile</dt>
+  <dd>Plaintext accounting command line application, written in Rust.</dd>
 </dl>
 
 Personal website/blog: [curbycolvin.com](https://curbycolvin.com)
