@@ -2,6 +2,8 @@
 
 ### Interests
 - Command Line Interfaces
+- Systems Programming
+- Linux
 - Cartography
 - Hiking & Trail Running
 - GPS and other outdoor tech
