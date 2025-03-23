@@ -11,9 +11,6 @@
 
 ### Projects
 <dl>
-  <dt>Money and Code</dt>
-  <dd>A blog about decentralized finance and smart contracts.</dd>
-
   <dt>NAVATX</dt>
   <dd>Navigation resources for people that use trails.</dd>
   
